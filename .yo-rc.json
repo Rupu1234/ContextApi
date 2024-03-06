@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "context-api",
+    "libraryId": "4c7dd1c8-3b84-48d2-b653-3382d940a314",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "ContextApi",
+    "solutionShortDescription": "ContextApi description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

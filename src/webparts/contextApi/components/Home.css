@@ -1,0 +1,39 @@
+table {
+    width: 100%;
+    justify-content: flex-end;
+    margin-top:10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    border-collapse: collapse;
+  }
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .Holldiv{
+    padding: 10px;
+  }
+  .Heading{
+    text-align: center;
+  }
+  .addnewbtn{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    padding-top: 10px;
+  }
+  Button{
+    padding: 50px;
+  }
+  .Heading{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  }
+.Popup{
+    width: 100%;
+ 
+}
+input::placeholder{
+  align-items: center;
+}
